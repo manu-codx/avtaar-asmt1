@@ -6,6 +6,8 @@ the images are added in issues
 
 below are the links
 
+https://github.com/manu-codx/avtaar-asmt1/issues/3#issue-1144940958
+
 
 
 
